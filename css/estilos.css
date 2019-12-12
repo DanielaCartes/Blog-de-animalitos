@@ -9,12 +9,23 @@ body
   padding: 0;
 }
 
+#cabecera
+{
+  font-size: 30px;
+  background: #F3D34A;
+  color: #DD2D4A;
+  font-family: serif;
+
+}
+
 #container
 {
+  background: #FFB997;
+  color: #F67E7D;
   width: 70%;
   padding: 1em;
   text-align: left;
-  border: 5px solid #DDD;
+  border: 5px solid #EE6055;
   margin: 0 auto;
 }
 
