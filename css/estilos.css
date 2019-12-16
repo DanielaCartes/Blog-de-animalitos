@@ -12,18 +12,18 @@ body
 #cabecera
 {
   font-size: 30px;
-  color: #DD2D4A;
+  color: #BBDEF0;
   font-family: serif;
 
 }
 
 #container
 {
-  color: #F67E7D;
+  color: #2D7DD2;
   width: 70%;
   padding: 1em;
   text-align: left;
-  border: 5px solid #EE6055;
+  border: 5px solid #97CC04;
   margin: 0 auto;
 }
 
