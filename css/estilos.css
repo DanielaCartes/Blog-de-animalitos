@@ -1,5 +1,6 @@
 body
 {
+  background: #fffc99;
   text-align: center;
   font-family: Arial;
   color: #1F2232;
@@ -23,7 +24,7 @@ body
   width: 70%;
   padding: 1em;
   text-align: left;
-  border: 5px solid #97CC04;
+  border: 6px solid #97CC04;
   margin: 0 auto;
 }
 
