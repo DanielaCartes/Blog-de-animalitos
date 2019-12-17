@@ -23,7 +23,7 @@ body
   color: #2D7DD2;
   width: 70%;
   padding: 1em;
-  text-align: left;
+  text-align: left;s
   border: 6px solid #97CC04;
   margin: 0 auto;
 }
@@ -31,4 +31,9 @@ body
 #container h1
 {
   font-size: 20px;
+}
+
+#footer
+{
+  font-size: 30px;
 }
