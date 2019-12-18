@@ -12,8 +12,11 @@ body
 
 #cabecera
 {
+  background: rgb(169, 199, 231);
+  padding: 10px;
   font-size: 30px;
-  color: #BBDEF0;
+  text-align: center;
+  color: rgb(32, 94, 160);
   font-family: serif;
 
 }
@@ -33,9 +36,18 @@ body
   font-size: 20px;
 }
 
+#conejo
+{
+  width: 10%;
+  height: 12%;
+  vertical-align: middle;
+}
+
 #footer
 {
-  font-size: 30px;
+  background: rgb(169, 199, 231);
+  color: rgb(67, 132, 201);
+  font-size: 16px;
   font-family: Arial;
 
 }
