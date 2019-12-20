@@ -51,3 +51,13 @@ body
   font-family: Arial;
 
 }
+
+#Baño
+{
+  color: #2D7DD2;
+  width: 70%;
+  padding: 1em;
+  text-align: left;s
+  border: 6px solid #97CC04;
+  margin: 0 auto;
+}
